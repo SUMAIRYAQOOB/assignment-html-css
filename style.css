@@ -1,0 +1,33 @@
+.main{
+    background-color: rgb(140, 169, 169);
+}
+.heading{
+    text-align: center;
+    font-size: 100px
+
+}
+.img{
+    margin-left: 30%;
+}
+
+.heading1{
+    text-align: center;
+color: green;
+font-size: 70px;
+}
+.para{
+    background-color: green;
+ color: black;   
+ text-align: center;
+}
+.btn
+{
+    color: black;
+    background-color: chartreuse;
+    width: 170px;
+    height: 50px;
+    font-size: 40px;
+    border-radius: 30px;
+    margin-left: 40%;
+    margin-top: 50px;
+}
